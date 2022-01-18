@@ -1,3 +1,8 @@
+![crop](https://user-images.githubusercontent.com/32811724/149863103-45131519-5ca0-4f84-a8ba-4601a9aa727b.png)
+![input](https://user-images.githubusercontent.com/32811724/149863106-db2e0cb0-4c88-4e80-bc83-aacbc0e06f2b.png)
+![output](https://user-images.githubusercontent.com/32811724/149863108-60c4ceee-eb85-41c1-a927-e5e3c93c07e3.png)
+
+
 # Polygon-Yolov5
 This repository is based on Ultralytics/yolov5, with adjustments to enable polygon prediction boxes.
 
